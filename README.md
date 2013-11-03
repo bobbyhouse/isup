@@ -1,6 +1,6 @@
 #IsUp?
 
-A Javascript Module that will poll the specified HTTP server on a given
+A Javascript module that will poll the specified HTTP server on a given
 interval. It will set a colored circle depending on the response code.
 
 ```
