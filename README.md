@@ -11,7 +11,7 @@ interval. It will set a colored circle depending on the response code.
         <link rel="stylesheet" type="text/css" href="./isup.css">
     </head>
     <body>
-        <p>node server <span id="node" class="is"></span></p>
+        <div id="node" class="is"></div>
         <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
         <script type="text/javascript" src="./isup.js"></script>
         <script type="text/javascript">
