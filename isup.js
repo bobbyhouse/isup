@@ -46,6 +46,7 @@ var up = (function (server) {
       if (!has_been_called) {
         $div = $('<div class="is"/>');
         $('body').prepend($div);
+        has_been_called = true;
       }
       return $div;
     }
