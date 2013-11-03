@@ -1,0 +1,14 @@
+.is {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: rgba(192,192,192, 1);
+}
+
+.up {
+  background-color: rgba(0, 255, 0, 1);
+}
+
+.down {
+  background-color: rgba(255, 0, 0, 1);
+}
